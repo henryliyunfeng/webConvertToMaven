@@ -1,6 +1,8 @@
 # webConvertToMaven
 把原web的项目结构复制为maven的项目结构
+
 <div align=center>![原项目结构](https://github.com/henryliyunfeng/webConvertToMaven/blob/master/%E5%8E%9Fweb%E9%A1%B9%E7%9B%AE%E7%BB%93%E6%9E%84.PNG?raw=true '原项目结构')
+
 ## 1.通过程序，把原项目结构修改为maven项目结构，如下：
 ### 1）把src下面的代码文件拷贝到maven项目src/main/java目录下
 ### 2）把src下面的META-INF文件夹拷贝到maven项目src/main/resources目录下
